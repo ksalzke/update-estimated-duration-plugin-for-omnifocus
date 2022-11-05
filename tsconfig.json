@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "ES2017"
+        ],
+        "outDir": "updateEstimatedTime.omnifocusjs/Resources"
+    },
+    "include": [
+        "src/*"
+    ]
+}

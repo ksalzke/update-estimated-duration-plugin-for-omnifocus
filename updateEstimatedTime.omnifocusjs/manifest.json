@@ -1,0 +1,68 @@
+{
+  "defaultLocale": "en",
+  "identifier": "com.KaitlinSalzke.updateEstimatedTime",
+  "author": "Kaitlin Salzke",
+  "description": "An OmniFocus plug-in that allows the user to quickly update estimated times.",
+  "version": "1.0.0",
+  "actions": [
+    {
+      "identifier": "setTo2min",
+      "image": "2.circle"
+    }, 
+    {
+      "identifier": "setTo5min",
+      "image": "5.circle"
+    },
+    {
+      "identifier": "setTo10min",
+      "image": "10.circle"
+    },
+    {
+      "identifier": "setTo15min",
+      "image": "15.circle"
+    },
+    {
+      "identifier": "setTo30min",
+      "image": "30.circle"
+    },
+    {
+      "identifier": "setTo45min",
+      "image": "45.circle"
+    },
+    {
+      "identifier": "setTo1hr",
+      "image": "1.circle"
+    },
+    {
+      "identifier": "add2min",
+      "image": "goforward.2"
+    }, 
+    {
+      "identifier": "add5min",
+      "image": "goforward.5"
+    },
+    {
+      "identifier": "add10min",
+      "image": "goforward.10"
+    },
+    {
+      "identifier": "add15min",
+      "image": "goforward.15"
+    },
+    {
+      "identifier": "add30min",
+      "image": "goforward.30"
+    },
+    {
+      "identifier": "add45min",
+      "image": "goforward.45"
+    },
+    {
+      "identifier": "add1hr",
+      "image": "goforward.60"
+    }
+  ],
+  "libraries": [
+    { "identifier": "estimatedTimeLib" }
+  ]
+}
