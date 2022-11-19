@@ -3,7 +3,7 @@
         "lib": [
             "ES2017"
         ],
-        "outDir": "updateEstimatedTime.omnifocusjs/Resources"
+        "outDir": "updateEstimatedDuration.omnifocusjs/Resources"
     },
     "include": [
         "src/*"
